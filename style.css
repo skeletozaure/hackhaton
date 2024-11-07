@@ -1,0 +1,82 @@
+/* Added styles from index.html */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    font-size: 18px; /* Increased font size */
+}
+.container {
+    max-width: 800px; /* Passe de 600px à 800px */
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 1.1em; /* Slightly larger labels */
+}
+select, input[type="text"] {
+    width: 100%;
+    padding: 10px; /* Increased padding for better touch targets */
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1.1em; /* Ensure input text is larger */
+}
+
+input[list="airports"] {
+    width: 97%; /* S'assure que l'input utilise toute la largeur du conteneur */
+    font-size: 1.1em; /* Augmente la taille de la police pour une meilleure lisibilité */
+    padding: 12px; /* Augmente le padding pour rendre l'input plus grand */
+}
+
+.delay {
+    padding: 15px; /* Increased padding */
+    border-radius: 4px;
+    color: #fff;
+    margin-bottom: 20px; /* Augmente l'espacement */
+    font-size: 1.1em; /* Larger delay text */
+}
+.green {
+    background-color: #4CAF50;
+}
+.orange {
+    background-color: #FF9800;
+}
+.red {
+    background-color: #F44336;
+}
+
+/* Added styles for application title */
+#app-title {
+    font-size: 2.5em; /* Large font size */
+    text-align: center; /* Centered text */
+    margin-bottom: 20px; /* Spacing below the title */
+    color: #333; /* Dark color for visibility */
+}
+
+/* Added styles for language selector */
+
+label[for="language"] {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+#language {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+#results {
+    margin-top: 20px; /* Ajoute un espacement au-dessus de la div résultats */
+}

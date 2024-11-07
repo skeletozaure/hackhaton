@@ -1,0 +1,2942 @@
+[
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10140,
+        "DestAirportName": "Albuquerque International Sunport",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10299,
+        "DestAirportName": "Ted Stevens Anchorage International",
+        "ChanceOfDel15": 13.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10397,
+        "DestAirportName": "Hartsfield-Jackson Atlanta International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10423,
+        "DestAirportName": "Austin - Bergstrom International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10529,
+        "DestAirportName": "Bradley International",
+        "ChanceOfDel15": 30.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10693,
+        "DestAirportName": "Nashville International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10721,
+        "DestAirportName": "Logan International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10792,
+        "DestAirportName": "Buffalo Niagara International",
+        "ChanceOfDel15": 29.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10800,
+        "DestAirportName": "Bob Hope",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 10821,
+        "DestAirportName": "Baltimore\/Washington International Thurgood Marshall",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11042,
+        "DestAirportName": "Cleveland-Hopkins International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11057,
+        "DestAirportName": "Charlotte Douglas International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11066,
+        "DestAirportName": "Port Columbus International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11193,
+        "DestAirportName": "Cincinnati\/Northern Kentucky International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11259,
+        "DestAirportName": "Dallas Love Field",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11278,
+        "DestAirportName": "Ronald Reagan Washington National",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11292,
+        "DestAirportName": "Denver International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11298,
+        "DestAirportName": "Dallas\/Fort Worth International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11433,
+        "DestAirportName": "Detroit Metro Wayne County",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11618,
+        "DestAirportName": "Newark Liberty International",
+        "ChanceOfDel15": 31.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 11697,
+        "DestAirportName": "Fort Lauderdale-Hollywood International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12173,
+        "DestAirportName": "Honolulu International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12191,
+        "DestAirportName": "William P Hobby",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12264,
+        "DestAirportName": "Washington Dulles International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12266,
+        "DestAirportName": "George Bush Intercontinental\/Houston",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12339,
+        "DestAirportName": "Indianapolis International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12451,
+        "DestAirportName": "Jacksonville International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12478,
+        "DestAirportName": "John F. Kennedy International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12889,
+        "DestAirportName": "McCarran International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12892,
+        "DestAirportName": "Los Angeles International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12953,
+        "DestAirportName": "LaGuardia",
+        "ChanceOfDel15": 33.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 12954,
+        "DestAirportName": "Long Beach Airport",
+        "ChanceOfDel15": 12.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13198,
+        "DestAirportName": "Kansas City International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13204,
+        "DestAirportName": "Orlando International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13232,
+        "DestAirportName": "Chicago Midway International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13244,
+        "DestAirportName": "Memphis International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13303,
+        "DestAirportName": "Miami International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13342,
+        "DestAirportName": "General Mitchell International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13487,
+        "DestAirportName": "Minneapolis-St Paul International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13495,
+        "DestAirportName": "Louis Armstrong New Orleans International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13796,
+        "DestAirportName": "Metropolitan Oakland International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13830,
+        "DestAirportName": "Kahului Airport",
+        "ChanceOfDel15": 13.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13851,
+        "DestAirportName": "Will Rogers World",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13871,
+        "DestAirportName": "Eppley Airfield",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13891,
+        "DestAirportName": "Ontario International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13930,
+        "DestAirportName": "Chicago O'Hare International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 13931,
+        "DestAirportName": "Norfolk International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14027,
+        "DestAirportName": "Palm Beach International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14057,
+        "DestAirportName": "Portland International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14100,
+        "DestAirportName": "Philadelphia International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14107,
+        "DestAirportName": "Phoenix Sky Harbor International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14122,
+        "DestAirportName": "Pittsburgh International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14307,
+        "DestAirportName": "Theodore Francis Green State",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14492,
+        "DestAirportName": "Raleigh-Durham International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14524,
+        "DestAirportName": "Richmond International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14570,
+        "DestAirportName": "Reno\/Tahoe International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14635,
+        "DestAirportName": "Southwest Florida International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14679,
+        "DestAirportName": "San Diego International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14683,
+        "DestAirportName": "San Antonio International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14730,
+        "DestAirportName": "Louisville International-Standiford Field",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14747,
+        "DestAirportName": "Seattle\/Tacoma International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14771,
+        "DestAirportName": "San Francisco International",
+        "ChanceOfDel15": 33.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14831,
+        "DestAirportName": "Norman Y. Mineta San Jose International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14843,
+        "DestAirportName": "Luis Munoz Marin International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14869,
+        "DestAirportName": "Salt Lake City International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14893,
+        "DestAirportName": "Sacramento International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 14908,
+        "DestAirportName": "John Wayne Airport-Orange County",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 15016,
+        "DestAirportName": "Lambert-St. Louis International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 15304,
+        "DestAirportName": "Tampa International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 1,
+        "DestAirportID": 15376,
+        "DestAirportName": "Tucson International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10140,
+        "DestAirportName": "Albuquerque International Sunport",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10299,
+        "DestAirportName": "Ted Stevens Anchorage International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10397,
+        "DestAirportName": "Hartsfield-Jackson Atlanta International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10423,
+        "DestAirportName": "Austin - Bergstrom International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10529,
+        "DestAirportName": "Bradley International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10693,
+        "DestAirportName": "Nashville International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10721,
+        "DestAirportName": "Logan International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10792,
+        "DestAirportName": "Buffalo Niagara International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10800,
+        "DestAirportName": "Bob Hope",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 10821,
+        "DestAirportName": "Baltimore\/Washington International Thurgood Marshall",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11042,
+        "DestAirportName": "Cleveland-Hopkins International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11057,
+        "DestAirportName": "Charlotte Douglas International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11066,
+        "DestAirportName": "Port Columbus International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11193,
+        "DestAirportName": "Cincinnati\/Northern Kentucky International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11259,
+        "DestAirportName": "Dallas Love Field",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11278,
+        "DestAirportName": "Ronald Reagan Washington National",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11292,
+        "DestAirportName": "Denver International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11298,
+        "DestAirportName": "Dallas\/Fort Worth International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11433,
+        "DestAirportName": "Detroit Metro Wayne County",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11618,
+        "DestAirportName": "Newark Liberty International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 11697,
+        "DestAirportName": "Fort Lauderdale-Hollywood International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12173,
+        "DestAirportName": "Honolulu International",
+        "ChanceOfDel15": 11.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12191,
+        "DestAirportName": "William P Hobby",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12264,
+        "DestAirportName": "Washington Dulles International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12266,
+        "DestAirportName": "George Bush Intercontinental\/Houston",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12339,
+        "DestAirportName": "Indianapolis International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12451,
+        "DestAirportName": "Jacksonville International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12478,
+        "DestAirportName": "John F. Kennedy International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12889,
+        "DestAirportName": "McCarran International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12892,
+        "DestAirportName": "Los Angeles International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12953,
+        "DestAirportName": "LaGuardia",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 12954,
+        "DestAirportName": "Long Beach Airport",
+        "ChanceOfDel15": 12.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13198,
+        "DestAirportName": "Kansas City International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13204,
+        "DestAirportName": "Orlando International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13232,
+        "DestAirportName": "Chicago Midway International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13244,
+        "DestAirportName": "Memphis International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13303,
+        "DestAirportName": "Miami International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13342,
+        "DestAirportName": "General Mitchell International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13487,
+        "DestAirportName": "Minneapolis-St Paul International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13495,
+        "DestAirportName": "Louis Armstrong New Orleans International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13796,
+        "DestAirportName": "Metropolitan Oakland International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13830,
+        "DestAirportName": "Kahului Airport",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13851,
+        "DestAirportName": "Will Rogers World",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13871,
+        "DestAirportName": "Eppley Airfield",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13891,
+        "DestAirportName": "Ontario International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13930,
+        "DestAirportName": "Chicago O'Hare International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 13931,
+        "DestAirportName": "Norfolk International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14027,
+        "DestAirportName": "Palm Beach International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14057,
+        "DestAirportName": "Portland International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14100,
+        "DestAirportName": "Philadelphia International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14107,
+        "DestAirportName": "Phoenix Sky Harbor International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14122,
+        "DestAirportName": "Pittsburgh International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14307,
+        "DestAirportName": "Theodore Francis Green State",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14492,
+        "DestAirportName": "Raleigh-Durham International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14524,
+        "DestAirportName": "Richmond International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14570,
+        "DestAirportName": "Reno\/Tahoe International",
+        "ChanceOfDel15": 13.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14635,
+        "DestAirportName": "Southwest Florida International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14679,
+        "DestAirportName": "San Diego International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14683,
+        "DestAirportName": "San Antonio International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14730,
+        "DestAirportName": "Louisville International-Standiford Field",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14747,
+        "DestAirportName": "Seattle\/Tacoma International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14771,
+        "DestAirportName": "San Francisco International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14831,
+        "DestAirportName": "Norman Y. Mineta San Jose International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14843,
+        "DestAirportName": "Luis Munoz Marin International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14869,
+        "DestAirportName": "Salt Lake City International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14893,
+        "DestAirportName": "Sacramento International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 14908,
+        "DestAirportName": "John Wayne Airport-Orange County",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 15016,
+        "DestAirportName": "Lambert-St. Louis International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 15304,
+        "DestAirportName": "Tampa International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 2,
+        "DestAirportID": 15376,
+        "DestAirportName": "Tucson International",
+        "ChanceOfDel15": 12.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10140,
+        "DestAirportName": "Albuquerque International Sunport",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10299,
+        "DestAirportName": "Ted Stevens Anchorage International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10397,
+        "DestAirportName": "Hartsfield-Jackson Atlanta International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10423,
+        "DestAirportName": "Austin - Bergstrom International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10529,
+        "DestAirportName": "Bradley International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10693,
+        "DestAirportName": "Nashville International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10721,
+        "DestAirportName": "Logan International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10792,
+        "DestAirportName": "Buffalo Niagara International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10800,
+        "DestAirportName": "Bob Hope",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 10821,
+        "DestAirportName": "Baltimore\/Washington International Thurgood Marshall",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11042,
+        "DestAirportName": "Cleveland-Hopkins International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11057,
+        "DestAirportName": "Charlotte Douglas International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11066,
+        "DestAirportName": "Port Columbus International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11193,
+        "DestAirportName": "Cincinnati\/Northern Kentucky International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11259,
+        "DestAirportName": "Dallas Love Field",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11278,
+        "DestAirportName": "Ronald Reagan Washington National",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11292,
+        "DestAirportName": "Denver International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11298,
+        "DestAirportName": "Dallas\/Fort Worth International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11433,
+        "DestAirportName": "Detroit Metro Wayne County",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11618,
+        "DestAirportName": "Newark Liberty International",
+        "ChanceOfDel15": 29.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 11697,
+        "DestAirportName": "Fort Lauderdale-Hollywood International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12173,
+        "DestAirportName": "Honolulu International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12191,
+        "DestAirportName": "William P Hobby",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12264,
+        "DestAirportName": "Washington Dulles International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12266,
+        "DestAirportName": "George Bush Intercontinental\/Houston",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12339,
+        "DestAirportName": "Indianapolis International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12451,
+        "DestAirportName": "Jacksonville International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12478,
+        "DestAirportName": "John F. Kennedy International",
+        "ChanceOfDel15": 30.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12889,
+        "DestAirportName": "McCarran International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12892,
+        "DestAirportName": "Los Angeles International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12953,
+        "DestAirportName": "LaGuardia",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 12954,
+        "DestAirportName": "Long Beach Airport",
+        "ChanceOfDel15": 10.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13198,
+        "DestAirportName": "Kansas City International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13204,
+        "DestAirportName": "Orlando International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13232,
+        "DestAirportName": "Chicago Midway International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13244,
+        "DestAirportName": "Memphis International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13303,
+        "DestAirportName": "Miami International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13342,
+        "DestAirportName": "General Mitchell International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13487,
+        "DestAirportName": "Minneapolis-St Paul International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13495,
+        "DestAirportName": "Louis Armstrong New Orleans International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13796,
+        "DestAirportName": "Metropolitan Oakland International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13830,
+        "DestAirportName": "Kahului Airport",
+        "ChanceOfDel15": 11.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13851,
+        "DestAirportName": "Will Rogers World",
+        "ChanceOfDel15": 31.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13871,
+        "DestAirportName": "Eppley Airfield",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13891,
+        "DestAirportName": "Ontario International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13930,
+        "DestAirportName": "Chicago O'Hare International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 13931,
+        "DestAirportName": "Norfolk International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14027,
+        "DestAirportName": "Palm Beach International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14057,
+        "DestAirportName": "Portland International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14100,
+        "DestAirportName": "Philadelphia International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14107,
+        "DestAirportName": "Phoenix Sky Harbor International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14122,
+        "DestAirportName": "Pittsburgh International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14307,
+        "DestAirportName": "Theodore Francis Green State",
+        "ChanceOfDel15": 29.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14492,
+        "DestAirportName": "Raleigh-Durham International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14524,
+        "DestAirportName": "Richmond International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14570,
+        "DestAirportName": "Reno\/Tahoe International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14635,
+        "DestAirportName": "Southwest Florida International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14679,
+        "DestAirportName": "San Diego International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14683,
+        "DestAirportName": "San Antonio International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14730,
+        "DestAirportName": "Louisville International-Standiford Field",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14747,
+        "DestAirportName": "Seattle\/Tacoma International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14771,
+        "DestAirportName": "San Francisco International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14831,
+        "DestAirportName": "Norman Y. Mineta San Jose International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14843,
+        "DestAirportName": "Luis Munoz Marin International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14869,
+        "DestAirportName": "Salt Lake City International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14893,
+        "DestAirportName": "Sacramento International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 14908,
+        "DestAirportName": "John Wayne Airport-Orange County",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 15016,
+        "DestAirportName": "Lambert-St. Louis International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 15304,
+        "DestAirportName": "Tampa International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 3,
+        "DestAirportID": 15376,
+        "DestAirportName": "Tucson International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10140,
+        "DestAirportName": "Albuquerque International Sunport",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10299,
+        "DestAirportName": "Ted Stevens Anchorage International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10397,
+        "DestAirportName": "Hartsfield-Jackson Atlanta International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10423,
+        "DestAirportName": "Austin - Bergstrom International",
+        "ChanceOfDel15": 33.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10529,
+        "DestAirportName": "Bradley International",
+        "ChanceOfDel15": 29.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10693,
+        "DestAirportName": "Nashville International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10721,
+        "DestAirportName": "Logan International",
+        "ChanceOfDel15": 29.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10792,
+        "DestAirportName": "Buffalo Niagara International",
+        "ChanceOfDel15": 32.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10800,
+        "DestAirportName": "Bob Hope",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 10821,
+        "DestAirportName": "Baltimore\/Washington International Thurgood Marshall",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11042,
+        "DestAirportName": "Cleveland-Hopkins International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11057,
+        "DestAirportName": "Charlotte Douglas International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11066,
+        "DestAirportName": "Port Columbus International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11193,
+        "DestAirportName": "Cincinnati\/Northern Kentucky International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11259,
+        "DestAirportName": "Dallas Love Field",
+        "ChanceOfDel15": 30.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11278,
+        "DestAirportName": "Ronald Reagan Washington National",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11292,
+        "DestAirportName": "Denver International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11298,
+        "DestAirportName": "Dallas\/Fort Worth International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11433,
+        "DestAirportName": "Detroit Metro Wayne County",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11618,
+        "DestAirportName": "Newark Liberty International",
+        "ChanceOfDel15": 41.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 11697,
+        "DestAirportName": "Fort Lauderdale-Hollywood International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12173,
+        "DestAirportName": "Honolulu International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12191,
+        "DestAirportName": "William P Hobby",
+        "ChanceOfDel15": 33.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12264,
+        "DestAirportName": "Washington Dulles International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12266,
+        "DestAirportName": "George Bush Intercontinental\/Houston",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12339,
+        "DestAirportName": "Indianapolis International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12451,
+        "DestAirportName": "Jacksonville International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12478,
+        "DestAirportName": "John F. Kennedy International",
+        "ChanceOfDel15": 35.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12889,
+        "DestAirportName": "McCarran International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12892,
+        "DestAirportName": "Los Angeles International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12953,
+        "DestAirportName": "LaGuardia",
+        "ChanceOfDel15": 37.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 12954,
+        "DestAirportName": "Long Beach Airport",
+        "ChanceOfDel15": 11.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13198,
+        "DestAirportName": "Kansas City International",
+        "ChanceOfDel15": 31.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13204,
+        "DestAirportName": "Orlando International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13232,
+        "DestAirportName": "Chicago Midway International",
+        "ChanceOfDel15": 29.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13244,
+        "DestAirportName": "Memphis International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13303,
+        "DestAirportName": "Miami International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13342,
+        "DestAirportName": "General Mitchell International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13487,
+        "DestAirportName": "Minneapolis-St Paul International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13495,
+        "DestAirportName": "Louis Armstrong New Orleans International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13796,
+        "DestAirportName": "Metropolitan Oakland International",
+        "ChanceOfDel15": 30.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13830,
+        "DestAirportName": "Kahului Airport",
+        "ChanceOfDel15": 13.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13851,
+        "DestAirportName": "Will Rogers World",
+        "ChanceOfDel15": 30.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13871,
+        "DestAirportName": "Eppley Airfield",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13891,
+        "DestAirportName": "Ontario International",
+        "ChanceOfDel15": 30.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13930,
+        "DestAirportName": "Chicago O'Hare International",
+        "ChanceOfDel15": 33.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 13931,
+        "DestAirportName": "Norfolk International",
+        "ChanceOfDel15": 34.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14027,
+        "DestAirportName": "Palm Beach International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14057,
+        "DestAirportName": "Portland International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14100,
+        "DestAirportName": "Philadelphia International",
+        "ChanceOfDel15": 34.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14107,
+        "DestAirportName": "Phoenix Sky Harbor International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14122,
+        "DestAirportName": "Pittsburgh International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14307,
+        "DestAirportName": "Theodore Francis Green State",
+        "ChanceOfDel15": 32.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14492,
+        "DestAirportName": "Raleigh-Durham International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14524,
+        "DestAirportName": "Richmond International",
+        "ChanceOfDel15": 31.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14570,
+        "DestAirportName": "Reno\/Tahoe International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14635,
+        "DestAirportName": "Southwest Florida International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14679,
+        "DestAirportName": "San Diego International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14683,
+        "DestAirportName": "San Antonio International",
+        "ChanceOfDel15": 29.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14730,
+        "DestAirportName": "Louisville International-Standiford Field",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14747,
+        "DestAirportName": "Seattle\/Tacoma International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14771,
+        "DestAirportName": "San Francisco International",
+        "ChanceOfDel15": 31.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14831,
+        "DestAirportName": "Norman Y. Mineta San Jose International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14843,
+        "DestAirportName": "Luis Munoz Marin International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14869,
+        "DestAirportName": "Salt Lake City International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14893,
+        "DestAirportName": "Sacramento International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 14908,
+        "DestAirportName": "John Wayne Airport-Orange County",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 15016,
+        "DestAirportName": "Lambert-St. Louis International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 15304,
+        "DestAirportName": "Tampa International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 4,
+        "DestAirportID": 15376,
+        "DestAirportName": "Tucson International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10140,
+        "DestAirportName": "Albuquerque International Sunport",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10299,
+        "DestAirportName": "Ted Stevens Anchorage International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10397,
+        "DestAirportName": "Hartsfield-Jackson Atlanta International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10423,
+        "DestAirportName": "Austin - Bergstrom International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10529,
+        "DestAirportName": "Bradley International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10693,
+        "DestAirportName": "Nashville International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10721,
+        "DestAirportName": "Logan International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10792,
+        "DestAirportName": "Buffalo Niagara International",
+        "ChanceOfDel15": 31.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10800,
+        "DestAirportName": "Bob Hope",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 10821,
+        "DestAirportName": "Baltimore\/Washington International Thurgood Marshall",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11042,
+        "DestAirportName": "Cleveland-Hopkins International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11057,
+        "DestAirportName": "Charlotte Douglas International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11066,
+        "DestAirportName": "Port Columbus International",
+        "ChanceOfDel15": 29.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11193,
+        "DestAirportName": "Cincinnati\/Northern Kentucky International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11259,
+        "DestAirportName": "Dallas Love Field",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11278,
+        "DestAirportName": "Ronald Reagan Washington National",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11292,
+        "DestAirportName": "Denver International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11298,
+        "DestAirportName": "Dallas\/Fort Worth International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11433,
+        "DestAirportName": "Detroit Metro Wayne County",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11618,
+        "DestAirportName": "Newark Liberty International",
+        "ChanceOfDel15": 34.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 11697,
+        "DestAirportName": "Fort Lauderdale-Hollywood International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12173,
+        "DestAirportName": "Honolulu International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12191,
+        "DestAirportName": "William P Hobby",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12264,
+        "DestAirportName": "Washington Dulles International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12266,
+        "DestAirportName": "George Bush Intercontinental\/Houston",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12339,
+        "DestAirportName": "Indianapolis International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12451,
+        "DestAirportName": "Jacksonville International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12478,
+        "DestAirportName": "John F. Kennedy International",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12889,
+        "DestAirportName": "McCarran International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12892,
+        "DestAirportName": "Los Angeles International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12953,
+        "DestAirportName": "LaGuardia",
+        "ChanceOfDel15": 34.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 12954,
+        "DestAirportName": "Long Beach Airport",
+        "ChanceOfDel15": 12.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13198,
+        "DestAirportName": "Kansas City International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13204,
+        "DestAirportName": "Orlando International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13232,
+        "DestAirportName": "Chicago Midway International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13244,
+        "DestAirportName": "Memphis International",
+        "ChanceOfDel15": 26.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13303,
+        "DestAirportName": "Miami International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13342,
+        "DestAirportName": "General Mitchell International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13487,
+        "DestAirportName": "Minneapolis-St Paul International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13495,
+        "DestAirportName": "Louis Armstrong New Orleans International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13796,
+        "DestAirportName": "Metropolitan Oakland International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13830,
+        "DestAirportName": "Kahului Airport",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13851,
+        "DestAirportName": "Will Rogers World",
+        "ChanceOfDel15": 31.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13871,
+        "DestAirportName": "Eppley Airfield",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13891,
+        "DestAirportName": "Ontario International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13930,
+        "DestAirportName": "Chicago O'Hare International",
+        "ChanceOfDel15": 30.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 13931,
+        "DestAirportName": "Norfolk International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14027,
+        "DestAirportName": "Palm Beach International",
+        "ChanceOfDel15": 35.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14057,
+        "DestAirportName": "Portland International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14100,
+        "DestAirportName": "Philadelphia International",
+        "ChanceOfDel15": 30.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14107,
+        "DestAirportName": "Phoenix Sky Harbor International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14122,
+        "DestAirportName": "Pittsburgh International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14307,
+        "DestAirportName": "Theodore Francis Green State",
+        "ChanceOfDel15": 29.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14492,
+        "DestAirportName": "Raleigh-Durham International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14524,
+        "DestAirportName": "Richmond International",
+        "ChanceOfDel15": 32.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14570,
+        "DestAirportName": "Reno\/Tahoe International",
+        "ChanceOfDel15": 33.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14635,
+        "DestAirportName": "Southwest Florida International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14679,
+        "DestAirportName": "San Diego International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14683,
+        "DestAirportName": "San Antonio International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14730,
+        "DestAirportName": "Louisville International-Standiford Field",
+        "ChanceOfDel15": 30.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14747,
+        "DestAirportName": "Seattle\/Tacoma International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14771,
+        "DestAirportName": "San Francisco International",
+        "ChanceOfDel15": 32.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14831,
+        "DestAirportName": "Norman Y. Mineta San Jose International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14843,
+        "DestAirportName": "Luis Munoz Marin International",
+        "ChanceOfDel15": 27.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14869,
+        "DestAirportName": "Salt Lake City International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14893,
+        "DestAirportName": "Sacramento International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 14908,
+        "DestAirportName": "John Wayne Airport-Orange County",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 15016,
+        "DestAirportName": "Lambert-St. Louis International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 15304,
+        "DestAirportName": "Tampa International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 5,
+        "DestAirportID": 15376,
+        "DestAirportName": "Tucson International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10140,
+        "DestAirportName": "Albuquerque International Sunport",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10299,
+        "DestAirportName": "Ted Stevens Anchorage International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10397,
+        "DestAirportName": "Hartsfield-Jackson Atlanta International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10423,
+        "DestAirportName": "Austin - Bergstrom International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10529,
+        "DestAirportName": "Bradley International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10693,
+        "DestAirportName": "Nashville International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10721,
+        "DestAirportName": "Logan International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10792,
+        "DestAirportName": "Buffalo Niagara International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10800,
+        "DestAirportName": "Bob Hope",
+        "ChanceOfDel15": 11.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 10821,
+        "DestAirportName": "Baltimore\/Washington International Thurgood Marshall",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11042,
+        "DestAirportName": "Cleveland-Hopkins International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11057,
+        "DestAirportName": "Charlotte Douglas International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11066,
+        "DestAirportName": "Port Columbus International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11193,
+        "DestAirportName": "Cincinnati\/Northern Kentucky International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11259,
+        "DestAirportName": "Dallas Love Field",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11278,
+        "DestAirportName": "Ronald Reagan Washington National",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11292,
+        "DestAirportName": "Denver International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11298,
+        "DestAirportName": "Dallas\/Fort Worth International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11433,
+        "DestAirportName": "Detroit Metro Wayne County",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11618,
+        "DestAirportName": "Newark Liberty International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 11697,
+        "DestAirportName": "Fort Lauderdale-Hollywood International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12173,
+        "DestAirportName": "Honolulu International",
+        "ChanceOfDel15": 12.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12191,
+        "DestAirportName": "William P Hobby",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12264,
+        "DestAirportName": "Washington Dulles International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12266,
+        "DestAirportName": "George Bush Intercontinental\/Houston",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12339,
+        "DestAirportName": "Indianapolis International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12451,
+        "DestAirportName": "Jacksonville International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12478,
+        "DestAirportName": "John F. Kennedy International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12889,
+        "DestAirportName": "McCarran International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12892,
+        "DestAirportName": "Los Angeles International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12953,
+        "DestAirportName": "LaGuardia",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 12954,
+        "DestAirportName": "Long Beach Airport",
+        "ChanceOfDel15": 9.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13198,
+        "DestAirportName": "Kansas City International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13204,
+        "DestAirportName": "Orlando International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13232,
+        "DestAirportName": "Chicago Midway International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13244,
+        "DestAirportName": "Memphis International",
+        "ChanceOfDel15": 8.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13303,
+        "DestAirportName": "Miami International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13342,
+        "DestAirportName": "General Mitchell International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13487,
+        "DestAirportName": "Minneapolis-St Paul International",
+        "ChanceOfDel15": 11.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13495,
+        "DestAirportName": "Louis Armstrong New Orleans International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13796,
+        "DestAirportName": "Metropolitan Oakland International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13830,
+        "DestAirportName": "Kahului Airport",
+        "ChanceOfDel15": 12.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13851,
+        "DestAirportName": "Will Rogers World",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13871,
+        "DestAirportName": "Eppley Airfield",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13891,
+        "DestAirportName": "Ontario International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13930,
+        "DestAirportName": "Chicago O'Hare International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 13931,
+        "DestAirportName": "Norfolk International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14027,
+        "DestAirportName": "Palm Beach International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14057,
+        "DestAirportName": "Portland International",
+        "ChanceOfDel15": 13.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14100,
+        "DestAirportName": "Philadelphia International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14107,
+        "DestAirportName": "Phoenix Sky Harbor International",
+        "ChanceOfDel15": 13.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14122,
+        "DestAirportName": "Pittsburgh International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14307,
+        "DestAirportName": "Theodore Francis Green State",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14492,
+        "DestAirportName": "Raleigh-Durham International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14524,
+        "DestAirportName": "Richmond International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14570,
+        "DestAirportName": "Reno\/Tahoe International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14635,
+        "DestAirportName": "Southwest Florida International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14679,
+        "DestAirportName": "San Diego International",
+        "ChanceOfDel15": 13.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14683,
+        "DestAirportName": "San Antonio International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14730,
+        "DestAirportName": "Louisville International-Standiford Field",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14747,
+        "DestAirportName": "Seattle\/Tacoma International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14771,
+        "DestAirportName": "San Francisco International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14831,
+        "DestAirportName": "Norman Y. Mineta San Jose International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14843,
+        "DestAirportName": "Luis Munoz Marin International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14869,
+        "DestAirportName": "Salt Lake City International",
+        "ChanceOfDel15": 12.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14893,
+        "DestAirportName": "Sacramento International",
+        "ChanceOfDel15": 12.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 14908,
+        "DestAirportName": "John Wayne Airport-Orange County",
+        "ChanceOfDel15": 11.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 15016,
+        "DestAirportName": "Lambert-St. Louis International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 15304,
+        "DestAirportName": "Tampa International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 6,
+        "DestAirportID": 15376,
+        "DestAirportName": "Tucson International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10140,
+        "DestAirportName": "Albuquerque International Sunport",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10299,
+        "DestAirportName": "Ted Stevens Anchorage International",
+        "ChanceOfDel15": 10.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10397,
+        "DestAirportName": "Hartsfield-Jackson Atlanta International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10423,
+        "DestAirportName": "Austin - Bergstrom International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10529,
+        "DestAirportName": "Bradley International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10693,
+        "DestAirportName": "Nashville International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10721,
+        "DestAirportName": "Logan International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10792,
+        "DestAirportName": "Buffalo Niagara International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10800,
+        "DestAirportName": "Bob Hope",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 10821,
+        "DestAirportName": "Baltimore\/Washington International Thurgood Marshall",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11042,
+        "DestAirportName": "Cleveland-Hopkins International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11057,
+        "DestAirportName": "Charlotte Douglas International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11066,
+        "DestAirportName": "Port Columbus International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11193,
+        "DestAirportName": "Cincinnati\/Northern Kentucky International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11259,
+        "DestAirportName": "Dallas Love Field",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11278,
+        "DestAirportName": "Ronald Reagan Washington National",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11292,
+        "DestAirportName": "Denver International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11298,
+        "DestAirportName": "Dallas\/Fort Worth International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11433,
+        "DestAirportName": "Detroit Metro Wayne County",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11618,
+        "DestAirportName": "Newark Liberty International",
+        "ChanceOfDel15": 25.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 11697,
+        "DestAirportName": "Fort Lauderdale-Hollywood International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12173,
+        "DestAirportName": "Honolulu International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12191,
+        "DestAirportName": "William P Hobby",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12264,
+        "DestAirportName": "Washington Dulles International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12266,
+        "DestAirportName": "George Bush Intercontinental\/Houston",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12339,
+        "DestAirportName": "Indianapolis International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12451,
+        "DestAirportName": "Jacksonville International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12478,
+        "DestAirportName": "John F. Kennedy International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12889,
+        "DestAirportName": "McCarran International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12892,
+        "DestAirportName": "Los Angeles International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12953,
+        "DestAirportName": "LaGuardia",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 12954,
+        "DestAirportName": "Long Beach Airport",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13198,
+        "DestAirportName": "Kansas City International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13204,
+        "DestAirportName": "Orlando International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13232,
+        "DestAirportName": "Chicago Midway International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13244,
+        "DestAirportName": "Memphis International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13303,
+        "DestAirportName": "Miami International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13342,
+        "DestAirportName": "General Mitchell International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13487,
+        "DestAirportName": "Minneapolis-St Paul International",
+        "ChanceOfDel15": 15.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13495,
+        "DestAirportName": "Louis Armstrong New Orleans International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13796,
+        "DestAirportName": "Metropolitan Oakland International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13830,
+        "DestAirportName": "Kahului Airport",
+        "ChanceOfDel15": 12.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13851,
+        "DestAirportName": "Will Rogers World",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13871,
+        "DestAirportName": "Eppley Airfield",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13891,
+        "DestAirportName": "Ontario International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13930,
+        "DestAirportName": "Chicago O'Hare International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 13931,
+        "DestAirportName": "Norfolk International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14027,
+        "DestAirportName": "Palm Beach International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14057,
+        "DestAirportName": "Portland International",
+        "ChanceOfDel15": 20.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14100,
+        "DestAirportName": "Philadelphia International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14107,
+        "DestAirportName": "Phoenix Sky Harbor International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14122,
+        "DestAirportName": "Pittsburgh International",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14307,
+        "DestAirportName": "Theodore Francis Green State",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14492,
+        "DestAirportName": "Raleigh-Durham International",
+        "ChanceOfDel15": 19.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14524,
+        "DestAirportName": "Richmond International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14570,
+        "DestAirportName": "Reno\/Tahoe International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14635,
+        "DestAirportName": "Southwest Florida International",
+        "ChanceOfDel15": 14.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14679,
+        "DestAirportName": "San Diego International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14683,
+        "DestAirportName": "San Antonio International",
+        "ChanceOfDel15": 17.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14730,
+        "DestAirportName": "Louisville International-Standiford Field",
+        "ChanceOfDel15": 28.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14747,
+        "DestAirportName": "Seattle\/Tacoma International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14771,
+        "DestAirportName": "San Francisco International",
+        "ChanceOfDel15": 33.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14831,
+        "DestAirportName": "Norman Y. Mineta San Jose International",
+        "ChanceOfDel15": 23.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14843,
+        "DestAirportName": "Luis Munoz Marin International",
+        "ChanceOfDel15": 24.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14869,
+        "DestAirportName": "Salt Lake City International",
+        "ChanceOfDel15": 16.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14893,
+        "DestAirportName": "Sacramento International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 14908,
+        "DestAirportName": "John Wayne Airport-Orange County",
+        "ChanceOfDel15": 18.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 15016,
+        "DestAirportName": "Lambert-St. Louis International",
+        "ChanceOfDel15": 22.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 15304,
+        "DestAirportName": "Tampa International",
+        "ChanceOfDel15": 21.0
+    },
+    {
+        "DayOfWeek": 7,
+        "DestAirportID": 15376,
+        "DestAirportName": "Tucson International",
+        "ChanceOfDel15": 22.0
+    }
+]

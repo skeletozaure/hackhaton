@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Chances de Retard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Added Application Title -->
+        <h1 id="app-title">Scanner de Retard</h1>
+        
+        <!-- Added Language Selector -->
+        <label for="language">Langue / Language:</label>
+        <select id="language">
+            <option value="fr">Français</option>
+            <option value="en">English</option>
+        </select>
+        
+        <h2 id="title">Chances de Retard</h2>
+        <form id="form">
+            <label for="day" id="label-day">Jour de la semaine :</label>
+            <select id="day" name="day">
+                <option value="1">Lundi</option>
+                <option value="2">Mardi</option>
+                <option value="3">Mercredi</option>
+                <option value="4">Jeudi</option>
+                <option value="5">Vendredi</option>
+                <option value="6">Samedi</option>
+                <option value="7">Dimanche</option>
+            </select><br><br>
+
+            <label for="airport" id="label-airport">Choisissez un aéroport:</label>
+            <input list="airports" id="airport" name="airport" placeholder="Tapez pour chercher...">
+            <datalist id="airports">
+                <!-- Options will be populated by JavaScript -->
+            </datalist><br>
+        </form>
+
+        <div id="results"></div>
+    </div>
+
+    <!-- Link to external script.js -->
+    <script src="script.js"></script>
+</body>
+</html>

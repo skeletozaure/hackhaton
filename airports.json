@@ -1,0 +1,282 @@
+[
+    {
+        "DestAirportID": "11259",
+        "DestAirportName": "Dallas Love Field"
+    },
+    {
+        "DestAirportID": "12954",
+        "DestAirportName": "Long Beach Airport"
+    },
+    {
+        "DestAirportID": "13871",
+        "DestAirportName": "Eppley Airfield"
+    },
+    {
+        "DestAirportID": "13204",
+        "DestAirportName": "Orlando International"
+    },
+    {
+        "DestAirportID": "12264",
+        "DestAirportName": "Washington Dulles International"
+    },
+    {
+        "DestAirportID": "11193",
+        "DestAirportName": "Cincinnati/Northern Kentucky International"
+    },
+    {
+        "DestAirportID": "14570",
+        "DestAirportName": "Reno/Tahoe International"
+    },
+    {
+        "DestAirportID": "14524",
+        "DestAirportName": "Richmond International"
+    },
+    {
+        "DestAirportID": "10693",
+        "DestAirportName": "Nashville International"
+    },
+    {
+        "DestAirportID": "15304",
+        "DestAirportName": "Tampa International"
+    },
+    {
+        "DestAirportID": "10792",
+        "DestAirportName": "Buffalo Niagara International"
+    },
+    {
+        "DestAirportID": "14747",
+        "DestAirportName": "Seattle/Tacoma International"
+    },
+    {
+        "DestAirportID": "10423",
+        "DestAirportName": "Austin - Bergstrom International"
+    },
+    {
+        "DestAirportID": "15376",
+        "DestAirportName": "Tucson International"
+    },
+    {
+        "DestAirportID": "14683",
+        "DestAirportName": "San Antonio International"
+    },
+    {
+        "DestAirportID": "11697",
+        "DestAirportName": "Fort Lauderdale-Hollywood International"
+    },
+    {
+        "DestAirportID": "14771",
+        "DestAirportName": "San Francisco International"
+    },
+    {
+        "DestAirportID": "14307",
+        "DestAirportName": "Theodore Francis Green State"
+    },
+    {
+        "DestAirportID": "13232",
+        "DestAirportName": "Chicago Midway International"
+    },
+    {
+        "DestAirportID": "14843",
+        "DestAirportName": "Luis Munoz Marin International"
+    },
+    {
+        "DestAirportID": "14893",
+        "DestAirportName": "Sacramento International"
+    },
+    {
+        "DestAirportID": "14492",
+        "DestAirportName": "Raleigh-Durham International"
+    },
+    {
+        "DestAirportID": "13198",
+        "DestAirportName": "Kansas City International"
+    },
+    {
+        "DestAirportID": "14730",
+        "DestAirportName": "Louisville International-Standiford Field"
+    },
+    {
+        "DestAirportID": "12478",
+        "DestAirportName": "John F. Kennedy International"
+    },
+    {
+        "DestAirportID": "12191",
+        "DestAirportName": "William P Hobby"
+    },
+    {
+        "DestAirportID": "13244",
+        "DestAirportName": "Memphis International"
+    },
+    {
+        "DestAirportID": "10800",
+        "DestAirportName": "Bob Hope"
+    },
+    {
+        "DestAirportID": "13830",
+        "DestAirportName": "Kahului Airport"
+    },
+    {
+        "DestAirportID": "11066",
+        "DestAirportName": "Port Columbus International"
+    },
+    {
+        "DestAirportID": "15016",
+        "DestAirportName": "Lambert-St. Louis International"
+    },
+    {
+        "DestAirportID": "10397",
+        "DestAirportName": "Hartsfield-Jackson Atlanta International"
+    },
+    {
+        "DestAirportID": "11278",
+        "DestAirportName": "Ronald Reagan Washington National"
+    },
+    {
+        "DestAirportID": "14100",
+        "DestAirportName": "Philadelphia International"
+    },
+    {
+        "DestAirportID": "12451",
+        "DestAirportName": "Jacksonville International"
+    },
+    {
+        "DestAirportID": "11042",
+        "DestAirportName": "Cleveland-Hopkins International"
+    },
+    {
+        "DestAirportID": "14869",
+        "DestAirportName": "Salt Lake City International"
+    },
+    {
+        "DestAirportID": "11057",
+        "DestAirportName": "Charlotte Douglas International"
+    },
+    {
+        "DestAirportID": "13342",
+        "DestAirportName": "General Mitchell International"
+    },
+    {
+        "DestAirportID": "12266",
+        "DestAirportName": "George Bush Intercontinental/Houston"
+    },
+    {
+        "DestAirportID": "13487",
+        "DestAirportName": "Minneapolis-St Paul International"
+    },
+    {
+        "DestAirportID": "10140",
+        "DestAirportName": "Albuquerque International Sunport"
+    },
+    {
+        "DestAirportID": "14831",
+        "DestAirportName": "Norman Y. Mineta San Jose International"
+    },
+    {
+        "DestAirportID": "13931",
+        "DestAirportName": "Norfolk International"
+    },
+    {
+        "DestAirportID": "13796",
+        "DestAirportName": "Metropolitan Oakland International"
+    },
+    {
+        "DestAirportID": "13930",
+        "DestAirportName": "Chicago O'Hare International"
+    },
+    {
+        "DestAirportID": "11433",
+        "DestAirportName": "Detroit Metro Wayne County"
+    },
+    {
+        "DestAirportID": "10721",
+        "DestAirportName": "Logan International"
+    },
+    {
+        "DestAirportID": "14107",
+        "DestAirportName": "Phoenix Sky Harbor International"
+    },
+    {
+        "DestAirportID": "14908",
+        "DestAirportName": "John Wayne Airport-Orange County"
+    },
+    {
+        "DestAirportID": "12889",
+        "DestAirportName": "McCarran International"
+    },
+    {
+        "DestAirportID": "14635",
+        "DestAirportName": "Southwest Florida International"
+    },
+    {
+        "DestAirportID": "14027",
+        "DestAirportName": "Palm Beach International"
+    },
+    {
+        "DestAirportID": "14679",
+        "DestAirportName": "San Diego International"
+    },
+    {
+        "DestAirportID": "11618",
+        "DestAirportName": "Newark Liberty International"
+    },
+    {
+        "DestAirportID": "11298",
+        "DestAirportName": "Dallas/Fort Worth International"
+    },
+    {
+        "DestAirportID": "14057",
+        "DestAirportName": "Portland International"
+    },
+    {
+        "DestAirportID": "12339",
+        "DestAirportName": "Indianapolis International"
+    },
+    {
+        "DestAirportID": "13495",
+        "DestAirportName": "Louis Armstrong New Orleans International"
+    },
+    {
+        "DestAirportID": "13303",
+        "DestAirportName": "Miami International"
+    },
+    {
+        "DestAirportID": "11292",
+        "DestAirportName": "Denver International"
+    },
+    {
+        "DestAirportID": "10821",
+        "DestAirportName": "Baltimore/Washington International Thurgood Marshall"
+    },
+    {
+        "DestAirportID": "14122",
+        "DestAirportName": "Pittsburgh International"
+    },
+    {
+        "DestAirportID": "12892",
+        "DestAirportName": "Los Angeles International"
+    },
+    {
+        "DestAirportID": "10529",
+        "DestAirportName": "Bradley International"
+    },
+    {
+        "DestAirportID": "12953",
+        "DestAirportName": "LaGuardia"
+    },
+    {
+        "DestAirportID": "13851",
+        "DestAirportName": "Will Rogers World"
+    },
+    {
+        "DestAirportID": "12173",
+        "DestAirportName": "Honolulu International"
+    },
+    {
+        "DestAirportID": "10299",
+        "DestAirportName": "Ted Stevens Anchorage International"
+    },
+    {
+        "DestAirportID": "13891",
+        "DestAirportName": "Ontario International"
+    }
+]
